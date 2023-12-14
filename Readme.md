@@ -21,4 +21,4 @@ Kullanıcı karakter limitini geçerse tweet butonu pasif hale gelir.
 
 # Ekran 
 
-[](./twitter.gif)
+[](https://github.com/omergzlaydn/TwitterCard/blob/main/twitter.gif)
